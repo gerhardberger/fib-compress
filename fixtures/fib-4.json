@@ -1,0 +1,15 @@
+[
+  {
+    "address": "0.0.0.0",
+    "mask": 0,
+    "label": "a"
+  }, {
+    "address": "64.0.0.0",
+    "mask": 2,
+    "label": "b"
+  }, {
+    "address": "192.0.0.0",
+    "mask": 2,
+    "label": "c"
+  }
+]

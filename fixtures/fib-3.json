@@ -1,0 +1,19 @@
+[
+  {
+    "address": "160.0.0.0",
+    "mask": 3,
+    "label": "a"
+  }, {
+    "address": "96.0.0.0",
+    "mask": 4,
+    "label": "b"
+  }, {
+    "address": "96.0.0.0",
+    "mask": 3,
+    "label": "c"
+  }, {
+    "address": "176.0.0.0",
+    "mask": 4,
+    "label": "b"
+  }
+]

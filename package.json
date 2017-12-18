@@ -1,0 +1,14 @@
+{
+  "name": "fib-compress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "@hegyigellert",
+  "license": "MIT",
+  "dependencies": {
+    "pretty-tree": "^1.0.0"
+  }
+}
